@@ -1,0 +1,11 @@
+payload:
+  - DOMAIN-KEYWORD,dmm
+  - DOMAIN-SUFFIX,dmm.com
+  - DOMAIN,accounts.dmm.com
+  - DOMAIN-SUFFIX,amazonaws.com
+  - DOMAIN-SUFFIX,cygames.co.jp
+  - DOMAIN-SUFFIX,cygames.jp
+  - DOMAIN-SUFFIX,umamusume.jp
+  - DOMAIN-KEYWORD,umamusume
+  - DOMAIN,api-umamusume.cygames.jp
+  
