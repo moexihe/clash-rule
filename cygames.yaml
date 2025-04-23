@@ -8,4 +8,4 @@ payload:
   - DOMAIN-SUFFIX,umamusume.jp
   - DOMAIN-KEYWORD,umamusume
   - DOMAIN,api-umamusume.cygames.jp
-  
+  - DOMAIN-KEYWORD,github
